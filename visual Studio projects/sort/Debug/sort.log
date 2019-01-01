@@ -1,0 +1,6 @@
+﻿  main.cpp
+  sort.cpp
+d:\visualstudioprojects\sort\sort.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
+d:\visualstudioprojects\sort\sort.cpp(93): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  sort.vcxproj -> D:\visualStudioProjects\sort\Debug\sort.exe
